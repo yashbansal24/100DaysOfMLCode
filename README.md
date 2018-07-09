@@ -17,4 +17,14 @@ I will update the readme as the time goes by.
  - Github: You already are on my page :P.
 
 
+Day 1 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%201/neural_net_inbuilt_estimator/README.md
+
+Day 2 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%202/README.md
+
+Day 3 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%203/READMD.md
+
+Day 4 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%204/README.md
+
+
+
 Thank you.
