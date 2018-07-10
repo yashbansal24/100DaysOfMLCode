@@ -25,6 +25,9 @@ Day 3 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%203/READ
 
 Day 4 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%204/README.md
 
+Day 5 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%205/README.md
+
+
 
 
 Thank you.
