@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#pickle - not uploaded to save time
+*.pkl
+
 # C extensions
 *.so
 
