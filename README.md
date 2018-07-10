@@ -17,15 +17,20 @@ I will update the readme as the time goes by.
  - Github: You already are on my page :P.
 
 
-Day 1 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%201/neural_net_inbuilt_estimator/README.md
+Day 1 : Basic NN in tensorflow using inbuilt estimators.
+https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%201/neural_net_inbuilt_estimator/README.md
 
-Day 2 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%202/README.md
+Day 2 : CNN using Keras on Fashion-MNIST dataset
+https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%202/README.md
 
-Day 3 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%203/READMD.md
+Day 3 : Learnt about artistic Style Transfer and VGG Neural Networks
+https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%203/READMD.md
 
-Day 4 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%204/README.md
+Day 4 : learnt various things about Computer Vision
+https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%204/README.md
 
-Day 5 : https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%205/README.md
+Day 5 : develop a language translation net using LSTM encoder-decoder mechanism
+https://github.com/yashbansal24/100DaysOfMLCode/blob/master/Day%205/README.md
 
 
 
