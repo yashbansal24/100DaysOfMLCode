@@ -32,6 +32,9 @@ https://git.io/fNTBA
 Day 5 : develop a language translation net using LSTM encoder-decoder mechanism  
 https://git.io/fNTBh
 
+Day 6-12 : Learnt about various algorithms and techniques in Deep learning through courses.  
+
+
 
 
 
